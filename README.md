@@ -21,6 +21,7 @@ This project generates a random band name by combining a random adjective and a 
 ## Project Structure
 
 band-name-generator/
+
 │
 
 ├── public/
