@@ -22,18 +22,31 @@ This project generates a random band name by combining a random adjective and a 
 
 band-name-generator/
 │
+
 ├── public/
+
 │   └── styles/
+
 │       └── main.css
+
 │
+
 ├── views/
+
 │   ├── partials/
+
 │   │   ├── header.ejs
+
 │   │   └── footer.ejs
+
 │   └── index.ejs
+
 │
+
 ├── index.js
+
 ├── package.json
+
 └── README.md
 
 ## How to Clone the Project
@@ -60,14 +73,6 @@ http://localhost:3000
 <img width="1917" height="1062" alt="image" src="https://github.com/user-attachments/assets/d86fc533-2b7e-4a36-911b-c16edc13d6b0" />
 <img width="1914" height="1073" alt="image" src="https://github.com/user-attachments/assets/ecb7fe89-3216-457e-b203-bf13411bccf0" />
 
-
-Add your project screenshots here after uploading them.
-
-Example:
-
-![Home Page](./screenshots/home.png)
-![Generated Name](./screenshots/result.png)
-
 ## Author
 
-Your Name
+Mushrifa Hussain
